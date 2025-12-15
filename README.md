@@ -6,7 +6,7 @@ I am a CS & Data Analytics student at Slippery Rock University with experience i
 **Tools:** MySQL, Git/GitHub, UML, Excel (Pivot Tables), Spring Boot  
 **Areas of Strength:** Data Cleaning, Exploratory Analysis, Visualization, Process Mapping 
 ## Projects
-### Capstone Web Application — Spring Boot, MySQL, Java (In Progress)
+### Capstone Web Application — Spring Boot, MySQL, Java
 •	Building a full-stack Spring Boot system supporting geolocation, mapping, and routing features.  
 •	Integrated Leaflet maps with OpenStreetMap layers for interactive visualization.  
 •	Used Google Geocoding (fallback from OSM Nominatim) to convert addresses into coordinates for routing.  
