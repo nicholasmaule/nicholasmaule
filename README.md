@@ -1,5 +1,5 @@
 # Nicholas Maule 
-I am a CS & Data Analytics student at Slippery Rock University with experience in Python, Java, SQL, PCA workflows, dashboard development, and process automation. Strong foundation in algorithms, full-stack development, and statistical analysis. Seeking software or data engineering internships for Spring 2026.
+I am a CS & Data Analytics student at Slippery Rock University with experience in Python, Java, SQL, PCA workflows, dashboard development, and process automation. Strong foundation in algorithms, full-stack development, and statistical analysis. Seeking software, data, and other  engineering and internships for Spring 2026.
 ## Technical Skills
 **Languages:** Python, Java, C++, JavaScript, HTML, CSS, Prolog  
 **Data / Python Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn (Scaling, PCA)  
